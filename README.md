@@ -17,6 +17,6 @@
 + Using search view.
 
 ## Screenshots 
-<img src="https://github.com/mohammed2571994/quake-report-app/blob/master/screenshots/normal.png" width="480" hieght="854">
-<img src="https://github.com/mohammed2571994/quake-report-app/blob/master/screenshots/loading.png" width="480" hieght="854">
-<img src="https://github.com/mohammed2571994/quake-report-app/blob/master/screenshots/no_internet.png" width="480" hieght="854">
+<img src="https://github.com/mohammed2571994/book-listing-app/blob/master/screenshots/normal.png" width="480" hieght="854">
+<img src="https://github.com/mohammed2571994/book-listing-app/blob/master/screenshots/no_result.png" width="480" hieght="854">
+<img src="https://github.com/mohammed2571994/book-listing-app/blob/master/screenshots/no_internet.png" width="480" hieght="854">
